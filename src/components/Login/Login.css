@@ -1,0 +1,15 @@
+/* CSS CODE FOR LOGIN PAGE */
+
+.login-form{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(99, 99, 204);
+    color: white;
+    width: 750px;
+    height: 740px;
+    border: 2px solid grey;
+    border-radius: 15px;
+    margin-top: 50px;
+}
