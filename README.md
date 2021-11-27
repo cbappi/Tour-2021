@@ -1,4 +1,4 @@
-# SITE NAME - EXCELENT TOURS AND AND TRAVEL SERVICE PROVIDER
+# SITE NAME - EXCELENT TOURS AND TRAVEL SERVICE PROVIDER
 This site can be considered as Travrl/Tour category. If decided to make continental tours, This site may be the good one
 Firebase deploy link - https://doctor-2-7349c.web.app/
 Heroku Server Link -  https://frightful-alien-95040.herokuapp.com
